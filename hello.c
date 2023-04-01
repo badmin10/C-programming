@@ -2,5 +2,5 @@
 
 int main()
 {
-    printf("HIdasdasdasd\n");
+    printf("Gitry\n");
 }
